@@ -41,7 +41,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Hadolint
-        uses: brpaz/hadolint-action@v1.2.1
+        uses: brpaz/hadolint-action@v1.3.1
         with:
           dockerfile: Dockerfile
 
