@@ -21,7 +21,7 @@ DEPENDENCIES = [
     "coloredlogs==15.0",
     "docopt==0.6.2",
     "python-json-logger==2.0.1",
-    "rich==10.0.0",
+    "rich==10.1.0",
 ]
 
 URL = "https://github.com/lpmatos/hrpurge"
