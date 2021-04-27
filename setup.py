@@ -15,7 +15,7 @@ SHORT_DESCRIPTION = """
 A CLI tool that help you delete old releases of a helm chart deployed in K8S.""".strip()
 
 DEPENDENCIES = [
-    "arrow==1.0.3",
+    "arrow==1.1.0",
     "bullet==2.2.0",
     "asciimatics==1.12.0",
     "coloredlogs==15.0",
